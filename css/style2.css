@@ -1,0 +1,30 @@
+/* .nav-link{
+	float: right;
+} */
+
+.container-fluid{
+	padding-right: 0;
+	padding-left: 0;
+	 margin-left: auto;
+	margin-right: auto;
+}
+
+body{
+	overflow-x: hidden;
+	background: black;
+}
+.fabrics{
+	background: url(../images/fabric.jpg);
+	background-size: cover;
+	/* filter: blur(1px);
+	-webkit-filter: blur(2px); */
+}
+.snack{
+	background: url(../images/snack.jpg);
+	background-size: cover;
+	/* filter: blur(1px);
+	-webkit-filter: blur(2px); */
+}
+.late{
+	background: #bbb;
+}
